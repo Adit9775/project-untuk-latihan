@@ -1,4 +1,4 @@
-# project-Temen-temen
+# Project-Fundamental-Temen-temen
 
 ## Menyimpan daftar Project Fundamental yang sudah disubmit di Discord
 

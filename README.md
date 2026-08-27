@@ -1,6 +1,6 @@
-# project-kalian
+# project-Temen-temen
 
-## Menyimpan daftar Project Kalian yang sudah disubmit di Discord
+## Menyimpan daftar Project Fundamental yang sudah disubmit di Discord
 
 Setiap minggunya akan ditampilkan kurang lebih 10 project
 silahkan saksikan di twitch.tv/sandhikagalih

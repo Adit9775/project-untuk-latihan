@@ -1,4 +1,7 @@
-# Project-Fundamental-Konco-konco
+<<<<<<< HEAD
+
+# Project-Fundamental-Group-Coding
+ aff6e0e45507d0e6d26f9c4abf135987f85fbb87
 
 ## Menyimpan daftar Project Fundamental yang sudah disubmit di Discord
 
